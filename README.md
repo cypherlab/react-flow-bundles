@@ -13,7 +13,7 @@
 <!--- NPM badges
 -->
 <p align="center">
-  <a href="https://www.npmjs.com/package/@cypherlab/@cypherlab/react-flow-bundles">
+  <a href="https://www.npmjs.com/package/@cypherlab/react-flow-bundles">
     <img alt="npm version" src="https://img.shields.io/npm/v/@cypherlab/react-flow-bundles">
   </a>
   <img alt="lisence" src="https://img.shields.io/npm/l/@cypherlab/react-flow-bundles">
