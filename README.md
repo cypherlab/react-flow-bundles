@@ -40,7 +40,6 @@ import FlowBundle from '@cypherlab/react-flow-bundles'
 See [Live demo](https://raw.githack.com/cypherlab/react-flow-bundles/master/index.html)  
 
 
-
 ## FlowBundle options
 
 | option        | info                                                            |

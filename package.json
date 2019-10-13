@@ -1,7 +1,7 @@
 {
   "name": "@cypherlab/react-flow-bundles",
   "version": "0.0.2",
-  "description": "@cypherlab/react-flow-bundles",
+  "description": "Bundles kit for @cypherlab/react-flow",
   "author": "",
   "license": "ISC",
   "repository": "https://github.com/cypherlab/react-flow-bundles",
